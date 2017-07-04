@@ -1,4 +1,3 @@
 # CLA_test
 
-
-Auth test
+Test of CLA-Assistant implementation
